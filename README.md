@@ -8,5 +8,5 @@ Having a background color, and transparent holes.
 
 Just add the .h .m file into your project, then import the header to your viewcontroller.
 
-Then allocate the view by: 
+Then allocate the view by: \n
 BaseTutorialView \*view = [[BaseTutorialView alloc] initWithFrame:(CGRect)frame backgroundColor:(UIColor \*)color andTransparentRects:(NSArray*)rects];
